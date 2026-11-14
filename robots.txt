@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /index-backup.html
+
+Sitemap: https://canarylink-mobile.github.io/sitemap.xml
